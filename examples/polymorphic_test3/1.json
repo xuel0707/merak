@@ -1,0 +1,561 @@
+[
+
+[
+[
+  {
+    "first" : "tbl_level",
+    "second" : 1
+  },
+  {
+    "first" : "cam_num",
+    "second" : 1
+  },
+  {
+    "first" : "ram_num",
+    "second" : 1
+  }
+],
+[
+  {
+    "first" : "cam_hdr",
+    "second" : [
+      "key_en",
+      "key_data",
+      "key_mask",
+      "index"
+    ]
+  },
+  {
+    "first" : "ram_hdr",
+    "second" : [
+      "tab_en",
+      "next_en",
+      "next_offset",
+      "next_lens",
+      "fd0_offset",
+      "fd0_lens",
+      "fd0_regid",
+      "fd1_offset",
+      "fd1_lens",
+      "fd1_regid",
+      "fd2_offset",
+      "fd2_lens",
+      "fd2_regid",
+      "fd3_offset",
+      "fd3_lens",
+      "fd3_regid",
+      "hdr_lens",
+      "hdr_id"
+    ]
+  }
+],
+[
+  {
+    "first" : "cam_entrys",
+    "second" : [
+      [
+        1,
+        34987,
+        16,
+        0
+      ]
+    ]
+  },
+  {
+    "first" : "ram_entrys",
+    "second" : [
+      [
+        1,
+        1,
+        112,
+        0,
+        96,
+        16,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2,
+        136,
+        2
+      ]
+    ]
+  }
+]
+]
+,
+[
+[
+  {
+    "first" : "tbl_level",
+    "second" : 2
+  },
+  {
+    "first" : "cam_num",
+    "second" : 0
+  },
+  {
+    "first" : "ram_num",
+    "second" : 0
+  }
+],
+[
+  {
+    "first" : "cam_hdr",
+    "second" : [
+      "key_en",
+      "key_data",
+      "key_mask",
+      "index"
+    ]
+  },
+  {
+    "first" : "ram_hdr",
+    "second" : [
+      "tab_en",
+      "next_en",
+      "next_offset",
+      "next_lens",
+      "fd0_offset",
+      "fd0_lens",
+      "fd0_regid",
+      "fd1_offset",
+      "fd1_lens",
+      "fd1_regid",
+      "fd2_offset",
+      "fd2_lens",
+      "fd2_regid",
+      "fd3_offset",
+      "fd3_lens",
+      "fd3_regid",
+      "hdr_lens",
+      "hdr_id"
+    ]
+  }
+],
+[
+  {
+    "first" : "cam_entrys",
+    "second" : []
+  },
+  {
+    "first" : "ram_entrys",
+    "second" : []
+  }
+]
+]
+,
+[
+[
+  {
+    "first" : "tbl_level",
+    "second" : 3
+  },
+  {
+    "first" : "cam_num",
+    "second" : 0
+  },
+  {
+    "first" : "ram_num",
+    "second" : 0
+  }
+],
+[
+  {
+    "first" : "cam_hdr",
+    "second" : [
+      "key_en",
+      "key_data",
+      "key_mask",
+      "index"
+    ]
+  },
+  {
+    "first" : "ram_hdr",
+    "second" : [
+      "tab_en",
+      "next_en",
+      "next_offset",
+      "next_lens",
+      "fd0_offset",
+      "fd0_lens",
+      "fd0_regid",
+      "fd1_offset",
+      "fd1_lens",
+      "fd1_regid",
+      "fd2_offset",
+      "fd2_lens",
+      "fd2_regid",
+      "fd3_offset",
+      "fd3_lens",
+      "fd3_regid",
+      "hdr_lens",
+      "hdr_id"
+    ]
+  }
+],
+[
+  {
+    "first" : "cam_entrys",
+    "second" : []
+  },
+  {
+    "first" : "ram_entrys",
+    "second" : []
+  }
+]
+]
+,
+[
+[
+  {
+    "first" : "tbl_level",
+    "second" : 4
+  },
+  {
+    "first" : "cam_num",
+    "second" : 0
+  },
+  {
+    "first" : "ram_num",
+    "second" : 0
+  }
+],
+[
+  {
+    "first" : "cam_hdr",
+    "second" : [
+      "key_en",
+      "key_data",
+      "key_mask",
+      "index"
+    ]
+  },
+  {
+    "first" : "ram_hdr",
+    "second" : [
+      "tab_en",
+      "next_en",
+      "next_offset",
+      "next_lens",
+      "fd0_offset",
+      "fd0_lens",
+      "fd0_regid",
+      "fd1_offset",
+      "fd1_lens",
+      "fd1_regid",
+      "fd2_offset",
+      "fd2_lens",
+      "fd2_regid",
+      "fd3_offset",
+      "fd3_lens",
+      "fd3_regid",
+      "hdr_lens",
+      "hdr_id"
+    ]
+  }
+],
+[
+  {
+    "first" : "cam_entrys",
+    "second" : []
+  },
+  {
+    "first" : "ram_entrys",
+    "second" : []
+  }
+]
+]
+,
+[
+[
+  {
+    "first" : "tbl_level",
+    "second" : 1
+  },
+  {
+    "first" : "cam_num",
+    "second" : 2
+  },
+  {
+    "first" : "tcam_num",
+    "second" : 0
+  },
+  {
+    "first" : "ram_num",
+    "second" : 0
+  }
+],
+[
+  {
+    "first" : "cam_hdr",
+    "second" : [
+      "tab_en",
+      "par_stat",
+      "key_map"
+    ]
+  },
+  {
+    "first" : "tcam_hdr",
+    "second" : [
+      "tab_en",
+      "key_data",
+      "key_mask",
+      "index"
+    ]
+  }
+],
+[
+  {
+    "first" : "cam_entrys",
+    "second" : [
+      [
+        1,
+        513,
+        1
+      ],
+      [
+        1,
+        1,
+        1
+      ]
+    ]
+  }
+]
+]
+,
+[
+[
+  {
+    "first" : "tbl_level",
+    "second" : 2
+  },
+  {
+    "first" : "cam_num",
+    "second" : 0
+  },
+  {
+    "first" : "tcam_num",
+    "second" : 0
+  },
+  {
+    "first" : "ram_num",
+    "second" : 0
+  }
+],
+[
+  {
+    "first" : "cam_hdr",
+    "second" : [
+      "tab_en",
+      "par_stat",
+      "key_map"
+    ]
+  },
+  {
+    "first" : "tcam_hdr",
+    "second" : [
+      "tab_en",
+      "key_data",
+      "key_mask",
+      "index"
+    ]
+  }
+],
+[
+  {
+    "first" : "cam_entrys",
+    "second" : []
+  }
+]
+]
+,
+[
+[
+  {
+    "first" : "tbl_level",
+    "second" : 3
+  },
+  {
+    "first" : "cam_num",
+    "second" : 0
+  },
+  {
+    "first" : "tcam_num",
+    "second" : 0
+  },
+  {
+    "first" : "ram_num",
+    "second" : 0
+  }
+],
+[
+  {
+    "first" : "cam_hdr",
+    "second" : [
+      "tab_en",
+      "par_stat",
+      "key_map"
+    ]
+  },
+  {
+    "first" : "tcam_hdr",
+    "second" : [
+      "tab_en",
+      "key_data",
+      "key_mask",
+      "index"
+    ]
+  }
+],
+[
+  {
+    "first" : "cam_entrys",
+    "second" : []
+  }
+]
+]
+,
+[
+[
+  {
+    "first" : "tbl_level",
+    "second" : 4
+  },
+  {
+    "first" : "cam_num",
+    "second" : 0
+  },
+  {
+    "first" : "tcam_num",
+    "second" : 0
+  },
+  {
+    "first" : "ram_num",
+    "second" : 0
+  }
+],
+[
+  {
+    "first" : "cam_hdr",
+    "second" : [
+      "tab_en",
+      "par_stat",
+      "key_map"
+    ]
+  },
+  {
+    "first" : "tcam_hdr",
+    "second" : [
+      "tab_en",
+      "key_data",
+      "key_mask",
+      "index"
+    ]
+  }
+],
+[
+  {
+    "first" : "cam_entrys",
+    "second" : []
+  }
+]
+]
+,
+[
+[
+  {
+    "first" : "table_num",
+    "second" : 1
+  },
+  {
+    "first" : "info_num",
+    "second" : 2
+  },
+  {
+    "first" : "action_num",
+    "second" : 1
+  }
+],
+[
+  {
+    "first" : "route_table",
+    "second" : [
+      "tab_name",
+      "tab_id"
+    ]
+  },
+  {
+    "first" : "route_info",
+    "second" : [
+      "info_name",
+      "info_id",
+      "offset",
+      "length"
+    ]
+  },
+  {
+    "first" : "route_action",
+    "second" : [
+      "act_name",
+      "opcode",
+      "left_name",
+      "left_cnst",
+      "right_name",
+      "right_cnst"
+    ]
+  }
+],
+[
+  {
+    "first" : "table_entrys",
+    "second" : [
+      [
+        "ic_exact",
+        "1"
+      ]
+    ]
+  }
+],
+[
+  {
+    "first" : "info_entrys",
+    "second" : [
+      [
+        "hdr.ethernet.etherType",
+        "18446742974197923844",
+        "96",
+        "16"
+      ],
+      [
+        "standard_metadata.egress_port",
+        "18446742982787858432",
+        "0",
+        "0"
+      ]
+    ]
+  }
+],
+[
+  {
+    "first" : "action_entrys",
+    "second" : [
+      [
+        "action1",
+        "2",
+        "standard_metadata.egress_port",
+        "None",
+        "None",
+        "1"
+      ]
+    ]
+  }
+]
+]
+
+]
